@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnline.Web", "QuieroPizza.Web\TiendaOnline.Web.csproj", "{2F8996F6-648F-41F4-ABB3-E3FD87CC4E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnline.WebAdmin", "TiendaOnline.WebAdmin\TiendaOnline.WebAdmin.csproj", "{19399079-6D21-4D95-8856-0C13BEF5E632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnline.Win", "TiendaOnline.Win\TiendaOnline.Win.csproj", "{69F249DF-BD15-41AF-B625-3FDF8227504A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaOnline.BL", "TiendaOnline.BL\TiendaOnline.BL.csproj", "{217649F7-AA00-4B0D-ABE1-3156296E09E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8996F6-648F-41F4-ABB3-E3FD87CC4E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8996F6-648F-41F4-ABB3-E3FD87CC4E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8996F6-648F-41F4-ABB3-E3FD87CC4E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8996F6-648F-41F4-ABB3-E3FD87CC4E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19399079-6D21-4D95-8856-0C13BEF5E632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19399079-6D21-4D95-8856-0C13BEF5E632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19399079-6D21-4D95-8856-0C13BEF5E632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19399079-6D21-4D95-8856-0C13BEF5E632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F249DF-BD15-41AF-B625-3FDF8227504A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F249DF-BD15-41AF-B625-3FDF8227504A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F249DF-BD15-41AF-B625-3FDF8227504A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F249DF-BD15-41AF-B625-3FDF8227504A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217649F7-AA00-4B0D-ABE1-3156296E09E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217649F7-AA00-4B0D-ABE1-3156296E09E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217649F7-AA00-4B0D-ABE1-3156296E09E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217649F7-AA00-4B0D-ABE1-3156296E09E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
